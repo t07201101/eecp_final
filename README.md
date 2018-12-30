@@ -6,7 +6,7 @@ Team Members: 劉俊杉, 黃田宇, 陳瑞豪
 Student ID's: b07201032, b07201034, t07201101  
 Project Topic: Kirkwood Gaps  
 
-Work Division:
+Work Division:  
 b07201032 劉俊杉: Coding-Data Abstraction, Video editing  
 b07201034 黃田宇: Coding-Visual Simulation, Video recording  
 t07201101 陳瑞豪: Physics Research, Presentation , PPT   
