@@ -15,7 +15,6 @@ To reproduce the result of demo:
 4. Run simulation_2.ipynb to get the orbiting simulation of 200 asteroids with orbital resonances of 1.5 to 5.0.
 
 Work Division:
-b07201032 劉俊杉: Coding-Data Abstraction, Video editing
-b07201034 黃田宇: Coding-Visual Simulation, Video recording
-t07201101 陳瑞豪: Physics Research, Presentation , PPT 
-
+ b07201032 劉俊杉: Coding-Data Abstraction, Video editing
+ b07201034 黃田宇: Coding-Visual Simulation, Video recording
+ t07201101 陳瑞豪: Physics Research, Presentation , PPT 
