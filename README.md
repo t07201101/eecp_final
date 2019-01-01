@@ -12,7 +12,7 @@ b07201034 黃田宇: Coding-Visual Simulation, Video recording
 t07201101 陳瑞豪: Physics Research, Presentation , PPT   
 
 Environments: Python 3.6  
-Pakages: Vpython  
+Pakages: Vpython, numpy  
 
 To reproduce the result of demo:
 1. Run graph_1.ipynb to get the graph of radius over time of an asteroid with any given orbital resonance.
