@@ -9,9 +9,9 @@ T_jupiter = 2 * pi * sqrt(jupiter_orbit['r']**3/G/mass['sun'])
 
 
 ###### CHOOSE NUMBER OF ASTEROIDS ######
-N=100
-Res_start=1.8
-Res_end=2.5
+N=200
+Res_start=1.5
+Res_end=5.0
 ##################################################
 
 # create functions to calculate impact of graviational force by each object
