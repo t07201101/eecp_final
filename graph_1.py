@@ -9,7 +9,7 @@ T_jupiter = 2 * pi * sqrt(jupiter_orbit['r']**3/G/mass['sun'])
 
 
 ###### CHOOSE RATIO FOR ORBITAL RESONANCE ######
-orb_res = 7/3
+orb_res = 2.0
 ##################################################
 
 
