@@ -18,6 +18,6 @@ To reproduce the result of demo:
 1. Run graph_1.py to get the graph of radius over time of an asteroid with any given orbital resonance.
 2. Run graph_2.py to get the graph of radius over orbital resonance of asteroids after a given time.
 3. Run simulation_1.py to get the orbiting simulation of an asteroid with any given orbital resonance.
-4. Run simulation_2.py to get the orbiting simulation of 200 asteroids with orbital resonances of 1.5 to 5.0.
+4. Run simulation_2.py to get the orbiting simulation of given number of asteroids with given interval of orbital resonances.
 
 
